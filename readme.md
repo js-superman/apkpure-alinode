@@ -6,7 +6,7 @@ Dockerfile for alinode.
 
 You may use this Dockerfile via Docker Hub.
 
-The repo is [here](https://hub.docker.com/r/apkpure/alinode-docker/).
+The repo is [here](https://hub.docker.com/r/apkpure/alinode/).
 
 And the `docker pull` command is:
 
